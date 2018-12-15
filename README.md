@@ -7,7 +7,7 @@ There are 2 bugs created for the project.
 Please fork the repo, fix the bugs and create your own Pull Request. To do this:
 - Open your _Terminal_.
 - Go to your _Desktop_.
-- Create a folder name _it-course_.
+- Create a folder, _it-course_.
 - Fork this repo.
 - Navigate to the new repo in your GitHub space.
 - Clone the repo into this new folder.

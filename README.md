@@ -12,7 +12,7 @@ Please fork this repo, fix the bugs and create your own Pull Request. To do this
 - Navigate to the new repo in your GitHub space.
 - Clone the repo into this new folder.
 - Create a new branch named _new-branch_.
-- Do your fixes, commit and push.
+- Open the new folder within _VS Code_. Do your fixes, commit and push.
 - On your GitHub repo page create the PR.
   
   

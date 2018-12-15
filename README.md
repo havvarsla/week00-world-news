@@ -8,7 +8,10 @@ Please fork the repo, fix the bugs and create your own Pull Request. To do this:
 - Open your _Terminal_.
 - Go to your _Desktop_.
 - Create a folder name _it-course_.
-- Clone this repo in this new folder.
+- Fork this repo.
+- Navigate to the new repo in your GitHub space.
+- Clone the repo into this new folder.
+- Create a new branch, _new-branch_.
 - Do your fixes, commit and push.
 - On your github page create the PR.
   

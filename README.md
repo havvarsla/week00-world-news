@@ -9,7 +9,7 @@ Please fork this repo, fix the bugs and create your own Pull Request. To do this
 - Go to your _Desktop_.
 - Create a folder named _it-course_.
 - Fork this repo here.
-- Clone the repo into this new folder.
+- Clone the repo into this new folder from your *new repo*.
 - Open the new folder within VS Code.
 - Create a new branch named _new-branch_.
 - Open the new folder within _VS Code_. Do your fixes, commit and push.
